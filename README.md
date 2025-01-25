@@ -12,10 +12,6 @@
 
 - 📝 I regularly write articles on my blog [https://sampacker.com/blog](https://sampacker.com/blog) and on LinkedIn
 
-### Blogs posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-packer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-packer" height="30" width="40" /></a>
