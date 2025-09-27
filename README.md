@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Packer</h1>
-<h3 align="center">Building my path in Machine Learning & Data Engineering, with a strong foundation in software engineering.</h3>
+<h3 align="center">I’m working toward becoming an ML Engineer, drawing on my experience choosing the right technologies to solve business problems. I apply that expertise and curiosity to data engineering and machine learning.</h3>
 
 ## Projects
 - [Spacerouter](https://github.com/sam-packer/Spacerouter) - Middleware for AI that uses a neural network classifier to redirect math related questions to Wolfram Alpha instead of a LLM for more accurate results.
