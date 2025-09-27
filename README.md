@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Packer</h1>
 <h3 align="center">Building my path in Machine Learning & Data Engineering, with a strong foundation in software engineering.</h3>
 
-### Projects
+## Projects
 - [Spacerouter](https://github.com/sam-packer/Spacerouter) - Middleware for AI that uses a neural network classifier to redirect math related questions to Wolfram Alpha instead of a LLM for more accurate results.
 - [Notetaker](https://github.com/sam-packer/Notetaker) - Converts video transcripts from Coursera to notes using AI! This has the advantage of organizing the content from Coursera with the same structure.
 - [Mailroom Management System](https://github.com/sam-packer/Mailroom) - A system for apartment complexes, enabling managers to track and notify residents of package deliveries with authentication, email notification support. Built with .NET Core, Razor Pages, and MySQL
@@ -9,12 +9,12 @@
 - [BuffMovies](https://github.com/sam-packer/BuffMovies) - An Android app built with Jetpack Compose that fetches data about movies from an API and displays it to the user.
 - [Plexus Development](https://plex.us.org) - I led a team of 8 developers to rewrite and optimize a Minecraft plugin, improving efficiency, reducing bloat, making it modular, and integrating robust infrastructure with CI/CD pipelines and documentation. I led the development strategy, implemented scalable solutions with database and caching systems, and authored comprehensive project documentation. The plugin was written in Java, converters were written in Python, and it utilized many tools such as Jenkins for CI/CD and automatic publishing to a Sonatype Nexus repository. The documentation was built with Docusaurus and React.
 
-### Links
+## Links
 - 👨‍💻 My website is at [https://sampacker.com](https://sampacker.com)
 
 - 📝 I regularly write articles on my blog [https://sampacker.com/blog](https://sampacker.com/blog) and on LinkedIn
 
-### 🛠️ Skills  
+## Skills  
 
 **Programming & Data**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
