@@ -2,12 +2,9 @@
 <h3 align="center">I’m working toward becoming an ML Engineer, drawing on my experience choosing the right technologies to solve business problems. I apply that expertise and curiosity to data engineering and machine learning.</h3>
 
 ## Projects
-- [Spacerouter](https://github.com/sam-packer/Spacerouter) - Middleware for AI that uses a neural network classifier to redirect math related questions to Wolfram Alpha instead of a LLM for more accurate results.
-- [Notetaker](https://github.com/sam-packer/Notetaker) - Converts video transcripts from Coursera to notes using AI! This has the advantage of organizing the content from Coursera with the same structure.
-- [Mailroom Management System](https://github.com/sam-packer/Mailroom) - A system for apartment complexes, enabling managers to track and notify residents of package deliveries with authentication, email notification support. Built with .NET Core, Razor Pages, and MySQL
-- [Overflow](https://github.com/sam-packer/Overflow) - A Q&A platform replicating StackOverflow built in .NET Core with Razor Pages and a SQLite database. It supports threads and posts and full user management.
-- [BuffMovies](https://github.com/sam-packer/BuffMovies) - An Android app built with Jetpack Compose that fetches data about movies from an API and displays it to the user.
-- [Plexus Development](https://plex.us.org) - I led a team of 8 developers to rewrite and optimize a Minecraft plugin, improving efficiency, reducing bloat, making it modular, and integrating robust infrastructure with CI/CD pipelines and documentation. I led the development strategy, implemented scalable solutions with database and caching systems, and authored comprehensive project documentation. The plugin was written in Java, converters were written in Python, and it utilized many tools such as Jenkins for CI/CD and automatic publishing to a Sonatype Nexus repository. The documentation was built with Docusaurus and React.
+- [ShibBlue](https://github.com/sam-packer/Shibboleth-Threat-Detection) - Risk-based authentication system for Shibboleth IdP that learns user behavior and can score and deetect malicious logins. Built with PyTorch and Flask.
+- [Mailroom Management System](https://github.com/sam-packer/Mailroom) - A system for apartment complexes, enabling managers to track and notify residents of package deliveries with authentication, email notification support. Built with .NET Core, Razor Pages, and PostgreSQL.
+- [Plexus Development](https://plex.us.org) - I led a team of 8 developers to rewrite and optimize a Minecraft plugin, improving efficiency, reducing bloat, making it modular, and integrating robust infrastructure with CI/CD pipelines and documentation. I led the development strategy, implemented scalable solutions with database and caching systems, and authored comprehensive project documentation. The plugin was written in Java, converters were written in Python, and it utilized many tools such as Jenkins for CI/CD and automatic publishing to a Sonatype Nexus repository. The documentation was built with Starlight by Astro.
 
 ## Links
 - 👨‍💻 My website is at [https://sampacker.com](https://sampacker.com)
